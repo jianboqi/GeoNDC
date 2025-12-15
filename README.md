@@ -12,3 +12,5 @@ Key Features:
 📈 y/dt Differentiable Physics: Supports analytical computation of derivatives for extracting precise surface dynamics.
 
 🚀 High Fidelity: Preserves high-frequency details often lost in traditional temporal smoothing.
+
+🚧 Code Release Policy: The source code and pre-trained models are currently under review. They will be released immediately upon the acceptance of the paper.
