@@ -1,4 +1,5 @@
 # GeoNDC
 GeoNDC: A Geographic Neural Data Cube Framework for 4D Earth Observation
 
-<img width="246" height="284" alt="image" src="https://github.com/user-attachments/assets/202b7f94-6e11-4bc2-81a3-7af0a3a7db25" />
+<img width="572" height="640" alt="ScreenShot_2025-12-15_180206_599" src="https://github.com/user-attachments/assets/6c526878-93bc-4b70-bc99-cbb99193931a" />
+
