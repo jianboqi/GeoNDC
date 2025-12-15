@@ -7,6 +7,8 @@ Key Features:
 
 🌍 Continuous 4D Reconstruction: Query surface reflectance at any coordinate $(x, y)$ and any time $t$.
 
-☁️ Cloud-Robust: Implicitly handles missing data and cloud occlusions via neural inpainting.dy/dt Differentiable Physics: Supports analytical computation of 1st and 2nd order temporal derivatives for extracting precise vegetation dynamics.
+☁️ Cloud-Robust: Implicitly handles missing data and cloud occlusions via neural inpainting.
+
+📈 y/dt Differentiable Physics: Supports analytical computation of derivatives for extracting precise surface dynamics.
 
 🚀 High Fidelity: Preserves high-frequency details often lost in traditional temporal smoothing.
